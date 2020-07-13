@@ -1,0 +1,13 @@
+{
+    "name": "atha/ruby",
+    "description": "Just Ruby code",
+    "keywords": ["ruby", "rb"],
+    "license": "None",
+    "authors": [
+        {
+            "name": "Atha Tsaqif",
+            "email": "atha.3417@gmail.com",
+            "homepage": "http://example.com/"
+        }
+    ]
+}
